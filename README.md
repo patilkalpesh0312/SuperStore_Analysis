@@ -70,7 +70,6 @@ This project presents an interactive **Superstore Sales Dashboard** built using 
 
 ## 🎬 Project Demo Video
 
-Watch my Power BI dashboard demonstration: **[Add your demo video link here](#)**
 
 ## 👨‍💻 Author
 
