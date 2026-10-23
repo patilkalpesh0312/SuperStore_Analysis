@@ -10,13 +10,14 @@
 
 This project presents an interactive **Superstore Sales Dashboard** built using Microsoft Power BI. It provides insights into sales performance, profitability, product categories, regional performance, customer segments, and monthly sales trends.
 
+
 ## 🖼️ Dashboard Preview
 
-[**Click here to view the Superstore Sales Dashboard**](Images/Pr_1_Dashboard.jpg)
 
-![Superstore Sales Dashboard](Images/Pr_1_Dashboard.jpg)
+![Superstore Sales Dashboard](./SAMPLE-SUPERSTORE_DASHBOARD.jpg)
 
-> **Image setup:** Upload your dashboard screenshot to the repository's `Images` folder and name it `Pr_1_Dashboard.jpg`. The preview and link will then work.
+
+
 
 ## 🎯 Project Objectives
 
